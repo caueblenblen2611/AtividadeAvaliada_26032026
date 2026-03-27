@@ -266,6 +266,8 @@ else (Não)
 
 endif
 
+stop
+
 diagrama 1= <img width="377" height="367" alt="image" src="https://github.com/user-attachments/assets/bbf51b86-fb5a-4a7a-9fe7-cb45beba2b7d" />
 diagrama 2= <img width="426" height="367" alt="image" src="https://github.com/user-attachments/assets/acf2c331-1c77-47f0-9ef2-635d59b9b824" />
 diagrama 3= <img width="552" height="541" alt="image" src="https://github.com/user-attachments/assets/c99555e3-638a-4b37-9388-75e76eff2d67" />
@@ -278,4 +280,5 @@ diagrama 9= <img width="373" height="367" alt="image" src="https://github.com/us
 diagrama 10= <img width="439" height="367" alt="image" src="https://github.com/user-attachments/assets/e337666e-16fd-44a8-b164-58e1a6921fbc" />
 
 
-stop
+
+
