@@ -266,4 +266,16 @@ else (Não)
 
 endif
 
+diagrama 1= <img width="377" height="367" alt="image" src="https://github.com/user-attachments/assets/bbf51b86-fb5a-4a7a-9fe7-cb45beba2b7d" />
+diagrama 2= <img width="426" height="367" alt="image" src="https://github.com/user-attachments/assets/acf2c331-1c77-47f0-9ef2-635d59b9b824" />
+diagrama 3= <img width="552" height="541" alt="image" src="https://github.com/user-attachments/assets/c99555e3-638a-4b37-9388-75e76eff2d67" />
+diagrama 4= <img width="331" height="312" alt="image" src="https://github.com/user-attachments/assets/1998188b-4afe-41f3-9033-717e3f0f842c" />
+diagrama 5= <img width="210" height="358" alt="image" src="https://github.com/user-attachments/assets/6a819689-d23e-479c-ac78-0c430fec7089" />
+diagrama 6= <img width="163" height="468" alt="image" src="https://github.com/user-attachments/assets/788bc4ba-2e35-45b7-aa96-42da01a9db95" />
+diagrama 7= <img width="403" height="312" alt="image" src="https://github.com/user-attachments/assets/14e66455-4741-4759-9b37-5ec1632d76c1" />
+diagrama 8= <img width="353" height="367" alt="image" src="https://github.com/user-attachments/assets/575def0d-544b-4da0-95c0-374530a18310" />
+diagrama 9= <img width="373" height="367" alt="image" src="https://github.com/user-attachments/assets/9c00f715-818d-4ac8-9d24-cd4f9f968d1d" />
+diagrama 10= <img width="439" height="367" alt="image" src="https://github.com/user-attachments/assets/e337666e-16fd-44a8-b164-58e1a6921fbc" />
+
+
 stop
